@@ -8,7 +8,6 @@ function AddCounterForm(props) {
 
     const onSubmit = () => {
         props.onSubmit(name, Number(count));
-
         setName('');
         setCount(0);
     };
