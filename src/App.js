@@ -12,6 +12,7 @@ function App() {
         { id: 456, name: 'Counter 4', count: 48 },
     ];
 
+
     const [counters, setCounters] = useState(InitialCountersState);
 
     const resetTotalCount = () => {
