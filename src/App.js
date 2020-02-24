@@ -15,6 +15,7 @@ function App() {
     const [counters, setCounters] = useState(InitialCountersState);
 
     const resetTotalCount = () => {
+
         console.log('resetTotalCount');
         const newCounters = counters.map(el => ({ ...el, count: 0 }));
         setCounters(newCounters);
