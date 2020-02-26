@@ -3,7 +3,6 @@ import './App.css';
 import Counter from './Counter';
 import AddCounterForm from './AddCounterForm';
 
-
 function App() {
 
     const InitialCountersState = [
@@ -56,11 +55,11 @@ function App() {
 
 
     return (
-        <div className="container">
+        <div>
             <h1>Counters</h1>
 
             Total {counters.reduce((acc, cur) => acc + cur.count, 0)}
-            <button onClick={resetTotalCount} className="btn btn-danger">Reset total count</button>
+            <button onClick={resetTotalCount}>Reset total count</button>
 
             <hr />
 
