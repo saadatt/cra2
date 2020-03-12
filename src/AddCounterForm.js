@@ -4,7 +4,7 @@ import './App.css';
 function AddCounterForm(props) {
 
     const [name, setName] = useState('---');
-    const [count, setCount] = useState(456);
+    const [count, setCount] = useState(0);
 
     const onSubmit = () => {
         props.onSubmit(name, Number(count));

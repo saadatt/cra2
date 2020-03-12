@@ -1,10 +1,309 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="226cfca1-7fea-4bbb-ae41-3d73396a0acd" name="Default Changelist" comment="props-callback">
+      <change beforePath="$PROJECT_DIR$/.idea/cra1.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/AddCounterForm.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/AddCounterForm.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Counter.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/Counter.jsx" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="SWAP_SIDES_IN_COMPARE_BRANCHES" value="true" />
+  </component>
   <component name="ProjectId" id="1XDSCND4tJNC7MyYbsOCX6L58Nc" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/.." />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path" value="node" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Sadat_Projects\cra3\src\components" />
+    </key>
+  </component>
+  <component name="RunManager" selected="npm.start">
+    <configuration name="deploy" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="deploy" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <configuration name="start" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="start" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="npm.start" />
+        <item itemvalue="npm.deploy" />
+        <item itemvalue="npm.start" />
+        <item itemvalue="npm.deploy" />
+        <item itemvalue="npm.start" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="226cfca1-7fea-4bbb-ae41-3d73396a0acd" name="Default Changelist" comment="" />
+      <created>1581179767953</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1581179767953</updated>
+      <workItem from="1581179771685" duration="94000" />
+      <workItem from="1581179896328" duration="8000" />
+      <workItem from="1581179909608" duration="2408000" />
+      <workItem from="1581364051438" duration="3599000" />
+      <workItem from="1581367659644" duration="30991000" />
+      <workItem from="1581467605880" duration="6656000" />
+      <workItem from="1581786550431" duration="415000" />
+      <workItem from="1581787016539" duration="35000" />
+      <workItem from="1581787085125" duration="5545000" />
+      <workItem from="1581982699983" duration="969000" />
+      <workItem from="1582093820798" duration="1267000" />
+      <workItem from="1582141873230" duration="10123000" />
+      <workItem from="1582153032813" duration="299000" />
+      <workItem from="1582153400506" duration="932000" />
+      <workItem from="1582155201981" duration="283000" />
+      <workItem from="1582156485703" duration="6015000" />
+      <workItem from="1582164591537" duration="3125000" />
+      <workItem from="1582167741840" duration="2910000" />
+      <workItem from="1582339141733" duration="21000" />
+      <workItem from="1582389011070" duration="2063000" />
+      <workItem from="1582392078244" duration="292000" />
+      <workItem from="1582577158351" duration="384000" />
+      <workItem from="1582578042003" duration="14000" />
+      <workItem from="1582579336430" duration="1512000" />
+      <workItem from="1582580917798" duration="3445000" />
+      <workItem from="1582584792540" duration="124000" />
+      <workItem from="1582585170542" duration="1080000" />
+      <workItem from="1582586616258" duration="1401000" />
+      <workItem from="1582737624729" duration="13109000" />
+      <workItem from="1582764584834" duration="10806000" />
+    </task>
+    <task id="LOCAL-00001" summary="updated file with revised Footer component">
+      <created>1581463632400</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1581463632400</updated>
+    </task>
+    <task id="LOCAL-00002" summary="updated file with revised package.json file to create gh page">
+      <created>1581471903437</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1581471903437</updated>
+    </task>
+    <task id="LOCAL-00003" summary="props-callback">
+      <created>1582144314628</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1582144314628</updated>
+    </task>
+    <task id="LOCAL-00004" summary="2-props-callback">
+      <created>1582155384773</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1582155384773</updated>
+    </task>
+    <task id="LOCAL-00005" summary="counters app">
+      <created>1582391664572</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1582391664572</updated>
+    </task>
+    <task id="LOCAL-00006" summary="props-callback">
+      <created>1582392316935</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1582392316935</updated>
+    </task>
+    <task id="LOCAL-00007" summary="props-callback_02_24_2020">
+      <created>1582579590221</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1582579590221</updated>
+    </task>
+    <task id="LOCAL-00008" summary="props-callback">
+      <created>1582580239143</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1582580239143</updated>
+    </task>
+    <task id="LOCAL-00009" summary="props-callback_02_24_2020">
+      <created>1582580345550</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1582580345550</updated>
+    </task>
+    <task id="LOCAL-00010" summary="bootstrap_added">
+      <created>1582747905299</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1582747905299</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="updated file with revised Footer component" />
+    <MESSAGE value="updated file with revised package.json file to create gh page" />
+    <MESSAGE value="2-props-callback" />
+    <MESSAGE value="counters app" />
+    <MESSAGE value="props-callback" />
+    <MESSAGE value="props-callback_02_24_2020" />
+    <MESSAGE value="bootstrap_added" />
+    <option name="LAST_COMMIT_MESSAGE" value="bootstrap_added" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="558" y="143" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1582165189682">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state x="558" y="143" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1032@0.0.1920.1032" timestamp="1582165189682" />
+    <state x="399" y="0" key="CommitChangelistDialog2" timestamp="1582747904473">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state x="399" y="0" key="CommitChangelistDialog2/0.0.1920.1032@0.0.1920.1032" timestamp="1582747904473" />
+    <state x="633" y="135" key="FileChooserDialogImpl" timestamp="1582391590737">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state x="633" y="135" key="FileChooserDialogImpl/0.0.1920.1032@0.0.1920.1032" timestamp="1582391590737" />
+    <state x="762" y="367" key="Github.ShareDialog" timestamp="1582391826047">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state x="762" y="367" key="Github.ShareDialog/0.0.1920.1032@0.0.1920.1032" timestamp="1582391826047" />
+    <state width="1894" height="75" key="GridCell.Tab.0.bottom" timestamp="1582833141259">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state width="1894" height="75" key="GridCell.Tab.0.bottom/0.0.1920.1032@0.0.1920.1032" timestamp="1582833141259" />
+    <state width="1894" height="75" key="GridCell.Tab.0.center" timestamp="1582833141259">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state width="1894" height="75" key="GridCell.Tab.0.center/0.0.1920.1032@0.0.1920.1032" timestamp="1582833141259" />
+    <state width="1894" height="75" key="GridCell.Tab.0.left" timestamp="1582833141259">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state width="1894" height="75" key="GridCell.Tab.0.left/0.0.1920.1032@0.0.1920.1032" timestamp="1582833141259" />
+    <state width="1894" height="75" key="GridCell.Tab.0.right" timestamp="1582833141259">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state width="1894" height="75" key="GridCell.Tab.0.right/0.0.1920.1032@0.0.1920.1032" timestamp="1582833141259" />
+    <state x="533" y="95" key="MultipleFileMergeDialog" timestamp="1582392145344">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state x="533" y="95" key="MultipleFileMergeDialog/0.0.1920.1032@0.0.1920.1032" timestamp="1582392145344" />
+    <state x="223" y="0" width="1461" height="1032" key="SettingsEditor" timestamp="1582761839371">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state x="223" y="0" width="1461" height="1032" key="SettingsEditor/0.0.1920.1032@0.0.1920.1032" timestamp="1582761839371" />
+    <state x="91" y="91" width="1738" height="850" key="ShowDiffWithBranchDialog" timestamp="1582581459966">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state x="91" y="91" width="1738" height="850" key="ShowDiffWithBranchDialog/0.0.1920.1032@0.0.1920.1032" timestamp="1582581459966" />
+    <state x="351" y="123" key="Vcs.Push.Dialog.v2" timestamp="1582747943376">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state x="351" y="123" key="Vcs.Push.Dialog.v2/0.0.1920.1032@0.0.1920.1032" timestamp="1582747943376" />
+    <state x="636" y="92" key="git4idea.branch.GitSmartOperationDialog" timestamp="1582392139469">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state x="636" y="92" key="git4idea.branch.GitSmartOperationDialog/0.0.1920.1032@0.0.1920.1032" timestamp="1582392139469" />
+    <state x="572" y="226" key="git4idea.merge.GitPullDialog" timestamp="1582748286489">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state x="572" y="226" key="git4idea.merge.GitPullDialog/0.0.1920.1032@0.0.1920.1032" timestamp="1582748286489" />
+    <state x="648" y="341" key="git4idea.rebase.GitRebaseDialog" timestamp="1582748477491">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state x="648" y="341" key="git4idea.rebase.GitRebaseDialog/0.0.1920.1032@0.0.1920.1032" timestamp="1582748477491" />
+    <state x="575" y="136" key="git4idea.rebase.GitRebaseEditor" timestamp="1582579913890">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state x="575" y="136" key="git4idea.rebase.GitRebaseEditor/0.0.1920.1032@0.0.1920.1032" timestamp="1582579913890" />
+    <state x="453" y="-2" key="search.everywhere.popup" timestamp="1581368381784">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state x="453" y="-2" key="search.everywhere.popup/0.0.1920.1032@0.0.1920.1032" timestamp="1581368381784" />
   </component>
 </project>

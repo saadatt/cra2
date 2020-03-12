@@ -1,4 +1,4 @@
-import React from 'react';
+import React, {useState} from 'react';
 import './App.css';
 
 function Counter(props) {
@@ -24,10 +24,11 @@ function Counter(props) {
                  </div>
 
                  <div className="col">
-                      <button onClick={() => props.remove(props.id)}
+                      <button onClick={() => props.remove(props.id, props.name)}
                                 className="btn btn-danger">Delete</button>
                  </div>
                 </div>
+
          </div>
         </div>
     );
